@@ -1,4 +1,4 @@
 # cooking
 
 ## 鱼
-fish & chip(./fish/fishAndChip.md)
+- [fish & chips](./fish/fishAndChips.md)
